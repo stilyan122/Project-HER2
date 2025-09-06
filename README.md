@@ -86,7 +86,7 @@ Project HER2/
   *Interpretation:* HER2-positive samples show markedly higher pathway readouts.
 
 - **Vital status association (2×2, median-split of `pp_HER2`)**  
-  - **χ² = 0.056** (df = 1), **p = 0.813**; **Cramér’s V = 0.009**.  
+  - **χ² = 0.056** (df = 1), **p = 0.813**.  
   - Fisher’s exact: **OR = 1.054**, **p = 0.826**.  
   - Contingency (rows High/Low, cols 0/1): `[[307, 46], [304, 48]]`.  
   *Interpretation:* No evidence of association between median-split HER2 level and vital status in this dataset.
