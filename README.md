@@ -25,10 +25,8 @@ Hypothesis-driven statistical analysis of **ERBB2/HER2** using curated datasets�
 ## Features
 
 - ✅ **Group Comparison (HER2+ vs HER2−)**: **Mann–Whitney U** on pathway/protein signals (e.g., `pp_HER2`, `pp_HER2.pY1248`).  
-- ✅ **Categorical Association**: **χ²** test of independence and **Fisher’s exact** (2×2) for median-split pathway level vs `vital.status`.  
-- ✅ **Effect Sizes**: **Cramér’s V** (ϕ for 2×2).  
-- ✅ **Visualization Helpers**: Quick EDA (counts, histograms, box/violin) with Matplotlib.  
-- ✅ **(Optional) Bootstrap**: CIs for selected estimates.  
+- ✅ **Categorical Association**: **χ²** test of independence and **Fisher’s exact** (2×2) for median-split pathway level vs `vital.status`. 
+- ✅ **Visualization Helpers**: Quick EDA (counts, histograms, box/violin) with Matplotlib. 
 
 ---
 
