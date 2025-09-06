@@ -59,7 +59,7 @@ Project HER2/
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/<your-username>/project-her2.git
+   git clone https://github.com/stilyan122/project-her2.git
    cd project-her2
    ```
 2. **Create & activate a virtual environment**  
